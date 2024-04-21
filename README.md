@@ -33,7 +33,3 @@ I have a particular interest in leveraging modern web technologies to solve real
 
 I'm always eager to learn and incorporate new technologies into my projects. I believe in continuous learning and improvement, and I'm always looking for the next challenge!
 ```
-
-- \
-
-  ###
