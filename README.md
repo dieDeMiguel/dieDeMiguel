@@ -1,5 +1,3 @@
-````markdown
-```markdown
 ### Moin zusammen. Hello everyone 👋
 
 I am Diego, a passionate software developer with a keen interest in web development. I have a knack for creating efficient, scalable, and user-friendly applications.
@@ -36,5 +34,3 @@ My coding skills are diverse, but I specialize in TypeScript and JavaScript, par
   For payments I use the Stripe API and for email I use React Email + Resend.
 
   I'm always eager to learn and incorporate new technologies into my projects. I believe in continuous learning and improvement, and I'm always looking for the next challenge!
-```
-````
