@@ -12,7 +12,7 @@ I am Diego, a passionate software developer with a keen interest in web developm
 
 ### Coding Skills
 
-My coding skills are diverse, but I specialize in TypeScript and JavaScript, particularly in the context of React and Next.js applications. I have experience with libraries such as [lucide-react](https://github.com/lucide-icons/lucide-react) for icons and [clsx](https://github.com/lukeed/clsx) for conditional classnames. I also have experience with Contentful, a popular headless CMS, and I'm comfortable generating TypeScript definitions from Contentful models.
+My coding skills are diverse, but I specialize in TypeScript and JavaScript, particularly in the context of React and Next.js applications.
 
 ### Tech Stack
 
