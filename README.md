@@ -3,7 +3,6 @@
 I am Diego, a passionate software developer with a keen interest in web development. I have a knack for creating efficient, scalable, and user-friendly applications.
 
 - 🔭 Current projects: Advanced NextJS projects like the e-commerce.
-- 🌱 I’m currently learning Typescript, NextJS 15, German Language and how to use Figma as a front-end developer.
 - 💬 My interests: Sports, music, coding and tech in general. From hardware to gadgets, I am exciting of leaving in 2024 and having the opportunity to get my hands on nowaday's technology.
 - 📫 How to reach me: On LinkedIn: [www.linkedin.com/in/diedemiguel](http://www.linkedin.com/in/diedemiguel) or per mail [diedemiguel@gmail.](mailto:diedemiguel@gmail.com)com
 - ⚡ Fun fact: I have people in common with the Pope and the queen of Netherlands. Saw 3 Football worldcups. Can balance ladders on my chin.
@@ -15,10 +14,6 @@ My coding skills are diverse, but I specialize in TypeScript and JavaScript, par
 ### Tech Stack
 
 - **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Testing**: Jest, Testing Library
-- **Tools**: ESLint, Prettier, PostCSS, Vite, Prisma, Storybook, Figma.
-- **CMS**: Contentful
 
 - ### Projects
 
